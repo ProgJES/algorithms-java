@@ -1,6 +1,6 @@
 package medium;
 
-public class addTwoNumbers {
+public class AddTwoNumbers {
     public ListNode Solution(ListNode l1, ListNode l2) {
         int carryOver = 0;
         ListNode head = new ListNode(0);
